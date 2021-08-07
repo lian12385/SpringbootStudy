@@ -1,0 +1,4 @@
+com\bulianglin\autoconfigure\auto\HelloServiceAutoConfiguration.class
+com\bulianglin\autoconfigure\AutoconfigureApplication.class
+com\bulianglin\autoconfigure\bean\HelloProperties.class
+com\bulianglin\autoconfigure\service\HelloService.class
